@@ -1,6 +1,6 @@
 # This is just a simple project for learning GIT and GITHUB
 
-```js
+```main.js
 const foo = (function() {
   const text = `Angular is better to SOC than ReactJS does`;
 
